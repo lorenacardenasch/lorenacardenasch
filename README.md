@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm a Bioengineering with extensive experience in management and development of research projects. As a biomedical engineering I have the ability to provide technical support to medical equipment and devices, train healthcare professionals based on proper use of medical equipment. In addition to that I have knowledge in management of biomedical technology in tertiary healthcare institutions, management of hospital resources, regulations of the health sector, metrology, techno-surveillance and production of medicinal gases.
+
+On the other hand, I am passionate about technologies. I have some knowledge on Back-end and Front-end developement such as NodeJs, JavaScript, HTML, CSS, frameworks as React and Git.
+
 <!--
 **lorenacardenasch/lorenacardenasch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
